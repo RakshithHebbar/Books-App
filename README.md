@@ -1,2 +1,2 @@
 # Books-App
-A simple app for rating the books developed using AngularJS
+This AngularJS app will live update the Likes and Dislikes on Click
